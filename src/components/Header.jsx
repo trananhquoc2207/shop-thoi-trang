@@ -54,7 +54,7 @@ const Header = () => {
                         <img src={logo} alt="" />
                     </Link> */}
                     <p>
-                        Ngoc
+                    Happy Life
                     </p>
                 </div>
                 <div className="header__menu">
